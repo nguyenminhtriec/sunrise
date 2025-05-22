@@ -1,6 +1,6 @@
 
 export default function Page() {
     return (
-        <div>Customers Page</div>
+        <div className='bg-sky-200 dark:bg-sky-700'>Customers Page</div>
     )
 }
