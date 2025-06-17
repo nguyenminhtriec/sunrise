@@ -16,7 +16,7 @@ const links = [
   { name: 'Home', href: '/dashboard', icon: HomeIcon },
   { name: 'Invoices', href: '/dashboard/invoices', icon: DocumentDuplicateIcon },
   { name: 'Customers', href: '/dashboard/customers', icon: UserGroupIcon },
-  { name: 'Chat', href: '#', icon: ChatBubbleBottomCenterIcon }
+  { name: 'Chat', href: '/dashboard/chat', icon: ChatBubbleBottomCenterIcon }
 ];
 
 export default function NavLinks() {
